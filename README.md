@@ -4,7 +4,7 @@ These files contain all of the information that you need to construct an elegant
 
 The design files are licensed under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt).
 
-*This license has requirements about using and sharing so please read [the license](LICENSE.md) before using these files.*
+*This license has requirements about using and sharing so please read [the license](LICENSE.txt) before using these files.*
 
 The trademarks of "Transmutable™" and "Transmutable Swan™" can only be used by [Transmutable LLC](https://transmutable.com/), the studio run by [Trevor Flowers](https://trevor.smith.name/).
 
