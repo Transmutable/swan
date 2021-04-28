@@ -1,6 +1,6 @@
 # Bill of Materials
 
-Resin (200g for one case and faceplate): [AnyCubic Plant-based UV Resin](https://www.anycubic.com/collections/uv-resin/products/anycubic-plant-based-uv-resin)
+Resin (200g for both parts): [AnyCubic Plant-based UV Resin](https://www.anycubic.com/collections/uv-resin/products/anycubic-plant-based-uv-resin)
 
 16 position socket headers (2 per case): [Digi-Key](https://www.digikey.com/en/products/detail/PPTC161LFBN-RC/S7014-ND/810154)
 
