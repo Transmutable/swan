@@ -14,9 +14,11 @@ If you make something cool then sharing pics of it with [Trevor](https://twitter
 
 ## What's in this repo
 
-There are two printed parts (the case and the faceplate) which are defined by FreeCAD projects (*.FCStd) and STL files. The designs target resin printers but might also work on a filament printer.
+There are two printed parts (the case and the faceplate) which are defined by a single FreeCAD project (Print.FCStd) and that was used to export two STL files (Body.stl and Faceplate.stl). The design targets resin printers using soybean-based resin (aka "eco-resin") but might also work with different resins or on a filament printer.
 
-There is one circuit board design that is defined by KiCAD files. Follow the directions of your PCB manufacturer to export from KiCAD into a format that they accept. The components for the board are usually not available for assembly by board manufacturers. We solder them by hand. If you find someone who will source and assemble completed boards for a reasonable price then please do DM [Trevor](https://twitter.com/trevorfsmith/).
+There is one circuit board design that is defined by KiCAD files in `/board/`. Follow the directions of your PCB manufacturer to export plots from KiCAD.
+
+The components for the board are usually not available for assembly by board manufacturers so we solder them by hand. If you find someone who will source and assemble completed boards for a reasonable price then please DM [Trevor](https://twitter.com/trevorfsmith/).
 
 The [Bill of Materials](BOM.md) lists the other parts that make up the completed case.
 
